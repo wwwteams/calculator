@@ -106,4 +106,4 @@ python -m unittest discover -s tests -v
 - [Тест-кейсы](docs/TEST_CASES.md)
 
 ## Автор
-_ФИО, группа_
+Гирман Артём
